@@ -1,0 +1,13 @@
+C:\Users\docuser\source\repos\adressBook\adressBook\bin\Debug\adressBook.exe.config
+C:\Users\docuser\source\repos\adressBook\adressBook\bin\Debug\adressBook.exe
+C:\Users\docuser\source\repos\adressBook\adressBook\bin\Debug\adressBook.pdb
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.csproj.AssemblyReference.cache
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.Form1.resources
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.Properties.Resources.resources
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.csproj.GenerateResource.cache
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.csproj.CoreCompileInputs.cache
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.exe
+C:\Users\docuser\source\repos\adressBook\adressBook\obj\Debug\adressBook.pdb
+C:\Users\docuser\source\repos\adressBook\adressBook\bin\Debug\Database1.mdf
+C:\Users\docuser\source\repos\adressBook\adressBook\bin\Debug\Database1_log.ldf
